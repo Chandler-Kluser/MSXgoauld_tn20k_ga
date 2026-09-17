@@ -6,7 +6,7 @@
 
 ## BOM
 
-Check our [Interactive BOM](https://html-preview.github.io/?url=https://raw.githubusercontent.com/jabadiagm/MSXgoauld_tn20k/main/kicad/v4.1/bom/ibom.html) to have better details.
+Check our [Interactive BOM](https://html-preview.github.io/?url=https://github.com/Chandler-Kluser/MSXgoauld_tn20k_ga/raw/refs/heads/main/kicad/v4.1/bom/ibom.html) to have better details.                                                       
 
 | Reference | Chip | Value |
 |:-----:|:-----:|:-----:|
